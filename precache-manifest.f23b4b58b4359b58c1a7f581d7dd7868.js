@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8f632594e1f2efb9b1f385d972cf446",
+    "revision": "c8e77bc868db0199be2b8b333cea1274",
     "url": "/Chrometab/index.html"
   },
   {
-    "revision": "b9321a5daa4c9b2f27b9",
+    "revision": "f675f6a741a662a787b0",
     "url": "/Chrometab/static/css/main.4fede78c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chrometab/static/js/2.877f7147.chunk.js"
   },
   {
-    "revision": "b9321a5daa4c9b2f27b9",
-    "url": "/Chrometab/static/js/main.3cd514d9.chunk.js"
+    "revision": "f675f6a741a662a787b0",
+    "url": "/Chrometab/static/js/main.16518ac0.chunk.js"
   },
   {
     "revision": "1c3ddca9ab7e8b4e6aff",
