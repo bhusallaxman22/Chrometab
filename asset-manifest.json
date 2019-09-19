@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "github.com/Chrometab/static/css/main.9a0630bb.chunk.css",
-    "main.js": "github.com/Chrometab/static/js/main.c44f2e6f.chunk.js",
-    "main.js.map": "github.com/Chrometab/static/js/main.c44f2e6f.chunk.js.map",
-    "runtime~main.js": "github.com/Chrometab/static/js/runtime~main.68f6b27c.js",
-    "runtime~main.js.map": "github.com/Chrometab/static/js/runtime~main.68f6b27c.js.map",
-    "static/js/2.7f514c60.chunk.js": "github.com/Chrometab/static/js/2.7f514c60.chunk.js",
-    "static/js/2.7f514c60.chunk.js.map": "github.com/Chrometab/static/js/2.7f514c60.chunk.js.map",
+    "main.css": "https:bhusallaxman22.github.io/Chrometab/static/css/main.9a0630bb.chunk.css",
+    "main.js": "https:bhusallaxman22.github.io/Chrometab/static/js/main.c44f2e6f.chunk.js",
+    "main.js.map": "https:bhusallaxman22.github.io/Chrometabstatic/js/main.c44f2e6f.chunk.js.map",
+    "runtime~main.js": "https:bhusallaxman22.github.io/Chrometab/static/js/runtime~main.68f6b27c.js",
+    "runtime~main.js.map": "https:bhusallaxman22.github.io/Chrometab/static/js/runtime~main.68f6b27c.js.map",
+    "static/js/2.7f514c60.chunk.js": "https:bhusallaxman22.github.io/Chrometab/static/js/2.7f514c60.chunk.js",
+    "static/js/2.7f514c60.chunk.js.map": "https:bhusallaxman22.github.io/Chrometab/static/js/2.7f514c60.chunk.js.map",
     "index.html": "github.com/Chrometab/index.html",
-    "precache-manifest.06eabeacba1881e4b3ccf22ba5d051a3.js": "github.com/Chrometab/precache-manifest.06eabeacba1881e4b3ccf22ba5d051a3.js",
-    "service-worker.js": "github.com/Chrometab/service-worker.js",
-    "static/css/main.9a0630bb.chunk.css.map": "github.com/Chrometab/static/css/main.9a0630bb.chunk.css.map"
+    "precache-manifest.06eabeacba1881e4b3ccf22ba5d051a3.js": "https:bhusallaxman22.github.io/Chrometab/precache-manifest.06eabeacba1881e4b3ccf22ba5d051a3.js",
+    "service-worker.js": "https:bhusallaxman22.github.io/Chrometab/service-worker.js",
+    "static/css/main.9a0630bb.chunk.css.map": "https:bhusallaxman22.github.io/Chrometab/static/css/main.9a0630bb.chunk.css.map"
   }
 }
