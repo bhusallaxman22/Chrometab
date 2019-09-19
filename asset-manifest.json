@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fede78c.chunk.css",
-    "main.js": "/static/js/main.bff9d9d1.chunk.js",
-    "main.js.map": "/static/js/main.bff9d9d1.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a1e034e0.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a1e034e0.js.map",
-    "static/js/2.877f7147.chunk.js": "/static/js/2.877f7147.chunk.js",
-    "static/js/2.877f7147.chunk.js.map": "/static/js/2.877f7147.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2523d83ed173c920efe95fe93d0be887.js": "/precache-manifest.2523d83ed173c920efe95fe93d0be887.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4fede78c.chunk.css.map": "/static/css/main.4fede78c.chunk.css.map"
+    "main.css": "/Chrometab/static/css/main.4fede78c.chunk.css",
+    "main.js": "/Chrometab/static/js/main.3cd514d9.chunk.js",
+    "main.js.map": "/Chrometab/static/js/main.3cd514d9.chunk.js.map",
+    "runtime~main.js": "/Chrometab/static/js/runtime~main.d96d212a.js",
+    "runtime~main.js.map": "/Chrometab/static/js/runtime~main.d96d212a.js.map",
+    "static/js/2.877f7147.chunk.js": "/Chrometab/static/js/2.877f7147.chunk.js",
+    "static/js/2.877f7147.chunk.js.map": "/Chrometab/static/js/2.877f7147.chunk.js.map",
+    "index.html": "/Chrometab/index.html",
+    "precache-manifest.dd762055c9a9274fce6569aff24ccf64.js": "/Chrometab/precache-manifest.dd762055c9a9274fce6569aff24ccf64.js",
+    "service-worker.js": "/Chrometab/service-worker.js",
+    "static/css/main.4fede78c.chunk.css.map": "/Chrometab/static/css/main.4fede78c.chunk.css.map"
   }
 }
